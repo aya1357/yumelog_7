@@ -79,4 +79,4 @@ gem 'devise'
 gem 'omniauth-twitter'
 gem 'cssbundling-rails'
 gem 'jsbundling-rails'
-gem 'tailwindcss-rails'
+

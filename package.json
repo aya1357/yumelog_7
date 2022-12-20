@@ -3,7 +3,7 @@
   "private": true,
   "dependencies": {
     "daisyui": "^2.45.0",
-    "esbuild": "0.16.10",
+    "esbuild": "0.16.10"
   },
   "scripts": {
     "build": "esbuild app/assets/javascripts/*.* --bundle --sourcemap --outdir=app/assets/builds",
