@@ -73,3 +73,10 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+# Devise
+gem 'devise'
+gem 'omniauth-twitter'
+gem 'cssbundling-rails'
+gem 'jsbundling-rails'
+gem 'tailwindcss-rails'
